@@ -1,12 +1,1 @@
-Just for Train how u can create an application mobile using Kotlin.
-.
-.
-U can download it:)
-.
-.
-.
-Do not upload any updates!!
-.
-.
-.
-Credit by husainazkas
+Just for practice to create a mobile application using Kotlin. U can download it:) But do not upload any updates!! Credit by husainazkas.
