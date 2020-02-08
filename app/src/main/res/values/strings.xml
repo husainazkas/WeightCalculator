@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Weight Calculator</string>
+    <string name="rumus">Rumus Berat Badan Ideal adalah</string>
+    <string name="rumus_pria">Pria = (tinggi badan – 100) – ((tinggi badan – 100) x 10%)</string>
+    <string name="rumus_wanita">Wanita = (tinggi badan – 100) – ((tinggi badan – 100) x 15%)</string>
+    <string name="tinggi">Masukkan Tinggi Badan (cm)</string>
+    <string name="hitung">Hitung</string>
+    <string name="hasil">0 KG</string>
+    <string name="pilihan">Pilih Jenis Kelamin Anda</string>
+    <string name="ttl_alert">PERHATIAN!</string>
+    <string name="ngartos">Mengerti</string>
+    <string name="txt_alert1">Rumus menghitung berat badan ideal ini menggunakan Rumus Broca yang ditemukan oleh Pierre Paul Broca.</string>
+    <string name="txt_alert2">Namun, yang perlu diingat bahwa menghitung berat badan ideal dengan cara Broca ini tidak selalu akurat karena ada faktor usia dan faktor berat tulang atau proporsi tubuh.</string>
+</resources>
